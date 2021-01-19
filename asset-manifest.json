@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/baker_ui/static/css/main.18a3149f.chunk.css",
+    "main.js": "/baker_ui/static/js/main.3be65359.chunk.js",
+    "main.js.map": "/baker_ui/static/js/main.3be65359.chunk.js.map",
+    "runtime-main.js": "/baker_ui/static/js/runtime-main.3a5629cf.js",
+    "runtime-main.js.map": "/baker_ui/static/js/runtime-main.3a5629cf.js.map",
+    "static/js/2.a9c6171d.chunk.js": "/baker_ui/static/js/2.a9c6171d.chunk.js",
+    "static/js/2.a9c6171d.chunk.js.map": "/baker_ui/static/js/2.a9c6171d.chunk.js.map",
+    "static/js/3.234ba37d.chunk.js": "/baker_ui/static/js/3.234ba37d.chunk.js",
+    "static/js/3.234ba37d.chunk.js.map": "/baker_ui/static/js/3.234ba37d.chunk.js.map",
+    "index.html": "/baker_ui/index.html",
+    "static/css/main.18a3149f.chunk.css.map": "/baker_ui/static/css/main.18a3149f.chunk.css.map",
+    "static/js/2.a9c6171d.chunk.js.LICENSE.txt": "/baker_ui/static/js/2.a9c6171d.chunk.js.LICENSE.txt",
+    "static/media/Icon.7e62c738.svg": "/baker_ui/static/media/Icon.7e62c738.svg",
+    "static/media/Intro.d3a68017.jpg": "/baker_ui/static/media/Intro.d3a68017.jpg",
+    "static/media/graphic.ea1efc0a.png": "/baker_ui/static/media/graphic.ea1efc0a.png",
+    "static/media/webdesign.03ac9bb5.png": "/baker_ui/static/media/webdesign.03ac9bb5.png",
+    "static/media/webdevelopment.b627db63.png": "/baker_ui/static/media/webdevelopment.b627db63.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a5629cf.js",
+    "static/js/2.a9c6171d.chunk.js",
+    "static/css/main.18a3149f.chunk.css",
+    "static/js/main.3be65359.chunk.js"
+  ]
+}
